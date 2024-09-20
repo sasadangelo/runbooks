@@ -9,4 +9,4 @@ A Virtual Server Instance (VSI) in the Service A infrastructure  is not in Runni
 These are the steps to resolve the issue:
 
 - List VSI to check their status;
-- Start the logs-test VSI that is stopped;
+- Start the logs-test VSI that is stopped in the us-east region;
