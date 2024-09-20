@@ -1,4 +1,4 @@
-# Service A Endpoint Unavailable
+# Service A Log Endpoint is Unavailable
 
 ## Purpose
 
